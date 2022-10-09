@@ -1,12 +1,6 @@
 {
-  "label": {
-    "main": "Bonjour {user}!"
-  },
-  "button": {
-    "label": {
-      "clickMe": "Cliquez ici",
-      "language": "Changer langue"
-    },
-    "toastMessage": "Vous avez cliqué sur le bouton!"
+  "args": {
+    "title": "Basic network example",
+    "content": "Translated content"
   }
 }
