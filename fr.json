@@ -1,4 +1,5 @@
 {
-  "title": "Exemple réseau basique",
-  "content": "Contenu traduit"
+  "login": "Se connecter",
+  "fetch": "Récupérer les véhicules",
+  "fetch-successful": "Récupération réussie des véhicles {vehicles}"
 }

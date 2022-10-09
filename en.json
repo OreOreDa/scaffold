@@ -1,4 +1,5 @@
 {
-  "title": "Basic network example",
-  "content": "Translated content"
+  "login": "Log in",
+  "fetch": "Fetch Vehicles",
+  "fetch-successful": "Successfully retrieved vehicles {vehicles}"
 }
